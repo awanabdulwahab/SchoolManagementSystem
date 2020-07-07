@@ -12,7 +12,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ybov4gY7sLrq1WCRrOoWb3TYkJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BookStore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +39,7 @@
       <updated>1583220881970</updated>
       <workItem from="1583220888133" duration="128000" />
       <workItem from="1583816476595" duration="49000" />
+      <workItem from="1594152760246" duration="78000" />
     </task>
     <servers />
   </component>
@@ -42,13 +47,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1583816522665">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1594152835834">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1583816522665" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583220889629">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583220889629" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1594152835834" />
   </component>
 </project>
