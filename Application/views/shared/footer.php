@@ -49,5 +49,12 @@ $.widget.bridge('uibutton', $.ui.button)
 <script src="<?php echo base_url() ?>tools/dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="<?php echo base_url() ?>tools/dist/js/demo.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
 </body>
 </html>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.example').DataTable();
+	} );
+</script>

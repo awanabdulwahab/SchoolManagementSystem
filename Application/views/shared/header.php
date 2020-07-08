@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="<?php echo base_url() ?>tools/jqvmap/jqvmap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo base_url() ?>tools/dist/css/adminlte.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css"></link>
+	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css"></link>
   <!-- overlayScrollbars -->
   <link rel="stylesheet" href="<?php echo base_url() ?>tools/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
@@ -25,7 +27,8 @@
   <!-- summernote -->
   <link rel="stylesheet" href="<?php echo base_url() ?>tools/summernote/summernote-bs4.css">
   <!-- Google Font: Source Sans Pro -->
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo base_url().'tools/css/style.css'?>">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -167,10 +170,10 @@ Nora Silvester
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="<?php echo base_url() ?>tools/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="<?php echo base_url() ?>tools/dist/img/user8-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Alexander Pierce</a>
+          <a href="#" class="d-block">Abdul Wahab Awan</a>
         </div>
       </div>
 

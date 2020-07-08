@@ -14,7 +14,7 @@ class School extends CI_Controller
 
 	public function category(){
 		$this->load->view('shared/header.php');
-		$this->load->view('shared/category.php');
+		$this->load->view('category.php');
 		$this->load->view('shared/footer.php');
 	}
 }
