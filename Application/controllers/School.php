@@ -13,8 +13,13 @@ class School extends CI_Controller
 	}
 
 	public function category(){
-		$this->load->view('shared/header.php');
-		$this->load->view('category.php');
-		$this->load->view('shared/footer.php');
+		if($this->input->method() == 'post'){
+			print_r($_POST);
+	}
+	else{
+			$this->load->view('shared/header.php');
+			$this->load->view('category.php');
+			$this->load->view('shared/footer.php');
+		}
 	}
 }
